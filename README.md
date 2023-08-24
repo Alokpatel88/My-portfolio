@@ -36,7 +36,7 @@
 
 ## Sections 📚
 ✔️ About me\
-✔️ Experience\
+✔️ Achievement\
 ✔️ Projects \
 ✔️ Skills \
 ✔️ Education\
