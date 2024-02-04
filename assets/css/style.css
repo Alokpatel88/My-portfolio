@@ -1,3 +1,8 @@
+::selection {
+    background: rgb(33, 165, 57);
+    color: rgb(255, 255, 255);
+}
+
 .profile-pic {
   position: relative;
   max-width:130px;
